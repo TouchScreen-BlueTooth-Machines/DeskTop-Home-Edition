@@ -2,7 +2,8 @@
 
 ## About
 
-DeskTop Home Edition is a user-friendly version of DeskTop Business Edition, designed for home users. It provides more home-oriented applications, by contrast to our Business Edition.
+DeskTop Home Edition is a user-friendly version of DeskTop, designed for home users. It provides more home-oriented applications, by contrast to our Business Edition.
+[STILL NOT COMPLETED] This product is still not finished and will only be released and available when it is released. Please upgrade to the fully released version of the DeskTop Home Edition Apps if you have downloaded the apps that are currently up on this repository.
 
 ## License
 
